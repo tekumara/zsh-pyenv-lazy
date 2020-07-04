@@ -1,2 +1,3 @@
-# zsh-pyenv-lazy
-Lazily load pyenv
+# zsh-pyenv-virtualenvwrapper-lazy
+
+Lazily load pyenv-virtualenvwrapper
