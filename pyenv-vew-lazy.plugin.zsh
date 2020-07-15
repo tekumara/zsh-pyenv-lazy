@@ -25,3 +25,8 @@ mktmpenv() {
 	__vew_init
 	mktmpenv "$@"
 }
+
+rmvirtualenv() {
+	__vew_init	
+	rmvirtualenv "$@"	
+}
