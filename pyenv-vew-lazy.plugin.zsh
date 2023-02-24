@@ -4,7 +4,6 @@
 # virtualenvwrapper because if a virtualenv is activated before
 # pyenv loads (eg: by an IDE terminal) it will break the virtualenv
 
-export PATH="${HOME}/.pyenv/shims:${PATH}"
 eval "$(pyenv init - --no-rehash zsh)"
 
 # lazy load virtualenvwrapper for faster shell startup times
